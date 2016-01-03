@@ -6,6 +6,10 @@
 		{
 			"name": "Jan Petr",
 			"email": "jan.petr@religis.cz"
+		},
+		{
+			"name": "RELIGIS developers",
+			"email": "vyvoj@religis.cz"
 		}
 	],
 	"require": {
